@@ -1,0 +1,16 @@
+{
+  "name": "damiano.petrungaro/igni",
+  "require": {
+    "igniphp/framework": "^1.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7.2",
+    "eaglewu/swoole-ide-helper": "dev-master"
+  },
+  "authors": [
+    {
+      "name": "Damiano Petrungaro",
+      "email": "damianopetrungaro@gmail.com"
+    }
+  ]
+}
